@@ -22,6 +22,6 @@ function fareTripler(fare) {
   return fare * 3;
 }
 
-function fetchSpecifiedDrivers(drivers, myFunction){
-  return myFunction(drivers);
+function fetchSpecifiedDrivers(drivers, functionArgument){
+  return functionArgument(drivers);
 }

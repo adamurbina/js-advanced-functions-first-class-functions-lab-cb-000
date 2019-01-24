@@ -10,5 +10,5 @@ const selectingDrivers = function (drivers) {
   array = [];
   array.push(returnFirstTwoDrivers());
   array.push(returnLastTwoDrivers());
-  return array; 
+  return array;
 }

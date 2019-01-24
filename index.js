@@ -7,4 +7,3 @@ const returnLastTwoDrivers  = function (drivers){
 }
 
 const selectingDrivers = [returnFirstTwoDrivers(drivers), returnLastTwoDrivers(drivers)];
-}
